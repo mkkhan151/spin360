@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+.env
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+req.txt
+develop-eggs/
+dist/
+.qodo
+downloads/
+assets/
+eggs/
+.eggs/
+lib/
+*.ipynb
+lib64/
+uploads/
+parts/
+all.py
+sdist/
+var/
+
+*.egg-info/
+.installed.cfg
+*.egg
+python_code.py
+# Virtual Environment
+venv/
+ENV/
+my_project_files.txt
+python_code.py
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+*.log
+logs/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+zunused/
+venv/
+
+# MongoDB
+*.mongodb
+
+# Redis
+dump.rdb
+
+# Docker
+.docker/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Node (if using any frontend components)
+node_modules/
+npm-debug.log
