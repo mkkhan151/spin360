@@ -1,4 +1,5 @@
 # Python
+test/
 __pycache__/
 .env
 *.py[cod]
@@ -49,6 +50,7 @@ htmlcov/
 .mypy_cache/
 zunused/
 venv/
+processed_videos/
 
 # MongoDB
 *.mongodb
